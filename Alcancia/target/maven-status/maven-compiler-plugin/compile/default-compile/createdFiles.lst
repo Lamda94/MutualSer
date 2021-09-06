@@ -1,0 +1,5 @@
+com\alcancia\models\ModelAlcancia.class
+com\alcancia\AlcanciaApplication.class
+com\alcancia\controllers\ControllerAlcancia.class
+com\alcancia\repositories\RepositorieAlcancia.class
+com\alcancia\services\ServiceAlcancia.class
